@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: credit_risk_ml
+Version: 0.1.0
+Summary: Sistema de análise de risco de crédito usando ML
+Author: Ricardo
+Author-email: ricardo@example.com
+Keywords: machine learning,credit risk,finance
+Requires-Python: >=3.8
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
