@@ -1,0 +1,18 @@
+{
+  "high_risk_hours": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "velocity_threshold": 10,
+  "high_risk_amount_range": [
+    500,
+    2000
+  ],
+  "new_merchant_threshold": 100,
+  "fraud_base_rate": 0.0455
+}
